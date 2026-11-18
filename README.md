@@ -1,23 +1,38 @@
-#Deuda Pública de Francia: Observaciones, Diagnóstico y Líneas de Solución
+## 🏗️ Arquitectura del Proyecto y Diagnóstico Metodológico
 
-> **Versión:** 1.0 (Noviembre 2026)  
-> **Propósito:** Examinar la trayectoria de la deuda pública francesa y desarrollar una línea de investigación basada en recursos, capacidades productivas, infraestructura y servicios futuros, sin recurrir a nuevos préstamos, recortes presupuestarios o venta de activos.
+### 1. Diagnóstico y Tesis Central
+* **Premisa fundamental:** La deuda soberana no debe entenderse como un límite financiero insuperable, sino como el resultado de una arquitectura económica y de pasivos mal diseñada.
+* **Radiografía del pasivo real:** Desglose integral del pasivo soberano estructurado en tres ejes:
+  * **Capital e Intereses** (canalizados mediante mercados secundarios y mecanismos de intercambio económico).
+  * **Estructura de Tenedores:** 54% en manos de no residentes y 46% en manos residentes.
+
+### 2. Comparativa de Modelos Económicos
+* **El Modelo Obsoleto (Descartado):**
+  * Emisión constante de deuda para cubrir déficits.
+  * Políticas de austeridad y contracción drástica del gasto público.
+  * Privatización y venta de activos públicos a precio de liquidación.
+* **El Modelo Sistémico (Propuesto):**
+  * Suministro a largo plazo de recursos y capacidades estratégicas.
+  * Infraestructura como activo soberano de respaldo.
+  * Transferencia tecnológica preservando la propiedad y soberanía estatal.
+
+### 3. Mecanismo de Valor Económico Neto (VE)
+El modelo vincula el pasivo soberano a una **Matriz de Recursos Estratégicos** estructurada en tres pilares interconectados:
+1. **Industria** (horizonte de corto plazo).
+2. **Tecnología** (horizonte de mediano plazo).
+3. **Infraestructura** (horizonte de largo plazo).
+
+Para evaluar la viabilidad financiera y operativa, el marco introduce la ecuación del **Valor Económico Neto (VE)**:
+$$VE = \text{Flujo} - \text{Costos} - \text{Compromisos}$$[cite: 3]
 
 ---
 
-## 1. Línea Base Fiscal (Datos Oficiales)
-* **Deuda pública bruta (Maastricht):** €3.595,5 mil millones (119,0% del PIB al cierre del segundo trimestre de 2026).
-* **Deuda pública neta:** 111,4% del PIB al cierre del segundo trimestre de 2026.
-* **Déficit público (2025):** €152,5 mil millones (5,1% del PIB según INSEE).
-* **Ingresos y Gastos Públicos (2025):** 52,1% y 57,2% del PIB respectivamente.
-* **Deuda negociable del Estado:** €2.921,1 mil millones (al 30 de septiembre de 2026 según AFT).
+## ⚖️ Licencia y Marco Legal
+Este proyecto se rige bajo los estándares de código abierto **CERN-OHL / GPLv3**, garantizando la libre circulación de propuestas metodológicas de código abierto, investigación económica abierta y desarrollo comunitario no monetizado.
 
-## 2. Hipótesis de Solución: Acuerdos Basados en Capacidades
-* **Acuerdos de suministro a largo plazo:** Compromisos de compra vinculados a precios, volúmenes y calidad con costes inferiores a alternativas convencionales.
-* **Infraestructura y capacidad instalada:** Uso compartido y concesiones limitadas evaluadas bajo coste de ciclo de vida.
-* **Tecnología, conocimiento y servicios:** Contratos de desarrollo, mantenimiento y capacitación con pagos ligados a hitos y resultados comprobables.
-* **Inversión y compensación económica:** Financiamiento de capacidades productivas sin garantía soberana encubierta.
+---
 
-## 3. Regla de Valoración Económica
-El valor neto estimado se calcula mediante la siguiente estructura de análisis:
-$$\text{Valor Neto} = \text{Beneficios Incrementales} + \text{Gastos Evitados} + \text{Capacidades Futuras} - \text{Coste de Ejecución} - \text{Coste de Oportunidad} - \text{Costes de Control}$$
+## 🚦 Estado del Proyecto
+- **Estado Actual:** `Validación Conceptual / Investigación Concluida / Arquitectura Base`
+- **Versión:** `1.0.0`
+- **Mantenimiento:** Abierto a colaboración, revisión de diseño de procesos y análisis crítico de ingeniería macroeconómica.
